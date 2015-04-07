@@ -2,7 +2,7 @@ Software Carpentry boot camp
  
 Point your browser at this EtherPad: https://swcuk.etherpad.mozilla.org/13?
  
- Boot camp web page http://mikej888.gexithub.io/2013-12-03-edinburgh/
+ Boot camp web page http://softwaresaved.github.io/2013-12-03-edinburgh/
 
 Check your installation!
 
