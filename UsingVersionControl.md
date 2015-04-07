@@ -353,5 +353,5 @@ Can also get a visual rendering using:
 Want to check out the student branch of the course material:
 
 ```
-    $ git clone -b students https://github.com/mikej888/2013-12-03-edinburgh.git students 
+    $ git clone -b students https://github.com/softwaresaved/2013-12-03-edinburgh.git students 
 ```
